@@ -1,5 +1,11 @@
 # @neo4j/cypher-builder
 
+## 0.3.1
+
+### Patch Changes
+
+-   [#3091](https://github.com/neo4j/graphql/pull/3091) [`0d7a140ae`](https://github.com/neo4j/graphql/commit/0d7a140aea93eca94c03bcd49fda9ee9dfa5ae2b) Thanks [@angrykoala](https://github.com/angrykoala)! - Add support for using sets when defining the labels of a Node
+
 ## 0.3.0
 
 ### Minor Changes
